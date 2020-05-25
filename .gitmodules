@@ -1,0 +1,13 @@
+[submodule "zerogyun_test"]
+	path = zerogyun_test
+	url = https://github.com/LatteCode/zerogyun_test
+[submodule "cv_vue"]
+	path = cv_vue
+	url = https://github.com/CXZ7720/cv_vue.git
+	branch = oss_test
+[submodule "2020_OSS_Webview_TEST"]
+	path = 2020_OSS_Webview_TEST
+	url = https://github.com/CXZ7720/2020_OSS_Webview_TEST.git
+[submodule "2020_OSS_Android_Weather"]
+	path = 2020_OSS_Android_Weather
+	url = https://github.com/CXZ7720/2020_OSS_Android_Weather.git
